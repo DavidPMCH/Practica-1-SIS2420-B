@@ -1,0 +1,8 @@
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.SuggestedBindingRedirects.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Practica 1\Practica 1 C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
